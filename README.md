@@ -9,3 +9,8 @@ Third I bet on the trend (1x / x2 -> that the favorite team will not loose)
 --> Result: In each case I would have lost money (19.11.2020 , not much but still lost) 
 
 In the end I tried some ML Approaches just. Also with those predections it is not possible to win money (19.11.2020)
+
+
+# Project 
+Just run the main skript and then you can see the results.
+Than you can check some more stats in the stats file.
